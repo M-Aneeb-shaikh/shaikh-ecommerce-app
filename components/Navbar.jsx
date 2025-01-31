@@ -17,7 +17,7 @@ export default function Navbar() {
               <NavbarLinks />
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">AnasMart</a>
+          <a className="btn btn-ghost text-xl">ShaikhMart</a>
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
